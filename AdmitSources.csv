@@ -1,0 +1,11 @@
+Physician Referral,1
+Clinic Referral,2
+HMO Referral,3
+Transfer from a Hospital,4
+Transfer from a Skilled Nursing Facility (SNF),5
+Transfer from Another Health Facility,6
+Emergency Room,7
+Court/Law Enforcement,8
+Information Not Available,9
+Transfer from Psych Substance Abuse or Rehab Hospital,10
+Transfer from a Critical Access Hospital,11
